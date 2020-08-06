@@ -1,44 +1,44 @@
 [
     {
-        "Nombre": "Hipopótamo",
-        "Colores": "beige, rosa",
-        "Tamaño": "Mediano",
+        "nombre": "Hipopótamo",
+        "colores": "beige, rosa",
+        "tamaño": "Mediano",
         "imgSrc": "fotos/hipopotamo.jpg"
 
     },
 
     {
-        "Nombre": "Cocodrilo",
-        "Colores": "verde, azul, blanco",
-        "Tamaño": "Mediano",
+        "nombre": "Cocodrilo",
+        "colores": "verde, azul, blanco",
+        "tamaño": "Mediano",
         "imgSrc": "fotos/cocodrilo.jpg"
     },
 
     {
-        "Nombre": "Elefante",
-        "Colores": "gris, blanco",
-        "Tamaño": "Mediano",
+        "nombre": "Elefante",
+        "colores": "gris, blanco",
+        "tamaño": "Mediano",
         "imgSrc": "fotos/elefante.jpg"
     },
 
     {
-        "Nombre": "Perrito",
-        "Colores": "beige, marrón",
-        "Tamaño": "Chico",
+        "nombre": "Perrito",
+        "colores": "beige, marrón",
+        "tamaño": "Chico",
         "imgSrc": "fotos/perrito.jpg"
     },
 
     {
-        "Nombre": "Llama",
-        "Colores": "beige, rosa, gris, blanco",
-        "Tamaño": "Mediano",
+        "nombre": "Llama",
+        "colores": "beige, rosa, gris, blanco",
+        "tamaño": "Mediano",
         "imgSrc": "fotos/llama.jpg"
     },
 
     {
-        "Nombre": "Koala",
-        "Colores": "gris, verde agua",
-        "Tamaño": "Mediano",
+        "nombre": "Koala",
+        "colores": "gris, verde agua",
+        "tamaño": "Mediano",
         "imgSrc": "fotos/koala"
     },
 ]
