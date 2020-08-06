@@ -3,7 +3,7 @@
         "id": "1",
         "nombre": "Hipopótamo",
         "colores": "beige, rosa",
-        "tamaño": "Mediano",
+        "tamano": "Mediano",
         "imgSrc": "fotos/hipopotamo.jpg"
 
     },
@@ -12,7 +12,7 @@
         "id": "2",
         "nombre": "Cocodrilo",
         "colores": "verde, azul, blanco",
-        "tamaño": "Mediano",
+        "tamano": "Mediano",
         "imgSrc": "fotos/cocodrilo.jpg"
     },
 
@@ -20,7 +20,7 @@
         "id": "3",
         "nombre": "Elefante",
         "colores": "gris, blanco",
-        "tamaño": "Mediano",
+        "tamano": "Mediano",
         "imgSrc": "fotos/elefante.jpg"
     },
 
@@ -28,7 +28,7 @@
         "id": "4",
         "nombre": "Perrito",
         "colores": "beige, marrón",
-        "tamaño": "Chico",
+        "tamano": "Chico",
         "imgSrc": "fotos/perrito.jpg"
     },
 
@@ -36,7 +36,7 @@
         "id": "5",
         "nombre": "Llama",
         "colores": "beige, rosa, gris, blanco",
-        "tamaño": "Mediano",
+        "tamano": "Mediano",
         "imgSrc": "fotos/llama.jpg"
     },
 
@@ -44,8 +44,8 @@
         "id": "6",
         "nombre": "Koala",
         "colores": "gris, verde agua",
-        "tamaño": "Mediano",
+        "tamano": "Mediano",
         "imgSrc": "fotos/koala"
-    },
+    }
 ]
 
